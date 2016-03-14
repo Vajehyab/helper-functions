@@ -1,5 +1,5 @@
 # helper functions
-In this repository, we have some functions we are using in **Vajehyab**. Let us know what you need [here](https://github.com/vajeyyab/combination/issues).
+In this repository, we have some functions we are using in **Vajehyab**. Let us know what you need [here](https://github.com/Vajehyab/combination/issues).
 
 #List of functions:
 
