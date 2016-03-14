@@ -2,7 +2,7 @@
 /**
  * Abjad (Word to abjad convertor)
  * This function will convert words to Abjad (https://goo.gl/Lk1L4G)
- * How to use: abjad(Persian word);
+ * Usage: abjad(Persian word);
  * Return: Number
  */
 
