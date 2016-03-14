@@ -1,8 +1,8 @@
 <?php
 /**
  * Persian number convertor
- * This function will convert all English numbers to Persian (Arabic) numbers
- * How to use: Persian_number(text to convert its number);
+ * This function will convert English numbers to Persian (Arabic) numbers
+ * Usage: Persian_number(text to convert its number);
  * Return: String
  */
 function persian_number($text)
